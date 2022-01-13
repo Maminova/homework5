@@ -62,7 +62,7 @@ public class Main {
         //Задание 4
         int[] arrayH = {1, 2, 3};
         for (int i = 0; i < arrayH.length; i++) {
-            if (i < arrayH.length) {
+            if (i >0) {
                 System.out.print(",");
             }
 
